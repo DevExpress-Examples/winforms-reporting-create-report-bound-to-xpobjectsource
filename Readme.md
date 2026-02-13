@@ -19,7 +19,7 @@ You can use [XPO](https://www.devexpress.com/products/net/orm/) to retrieve data
 * [Bind a Report to an XPO Persistent Object](https://docs.devexpress.com/XtraReports/400276)
 * [Handle Database Connection Dynamically](https://docs.devexpress.com/XtraReports/400285/)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-reporting-create-report-bound-to-xpobjectsource&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-reporting-create-report-bound-to-xpobjectsource&~~~was_helpful=no)
 
